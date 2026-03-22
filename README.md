@@ -1,2 +1,2 @@
-# Exercicio Pyhton
-Plataforma Musical
+#  Pyhton 🐍
+Exercicios em Python, flask, classes, condições ...
