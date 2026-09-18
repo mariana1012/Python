@@ -6,7 +6,7 @@ Tem objetivo reunir em um só lugar as coisas que eu vou construindo — scripts
 
 ## Organização
 
-Cada projeto fica em sua própria pasta
+Todos projetos se encontram na pasta: Exercicios dentro dela verá:
 
 ```
 .
